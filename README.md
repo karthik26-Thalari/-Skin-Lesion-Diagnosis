@@ -71,7 +71,7 @@ Go to [https://challenge.isic-archive.com/data/#2018](https://challenge.isic-arc
 |---|---|
 | Training Images | 10.4 GB |
 | Training Masks | 26 MB |
-| Validation Images | 2.2 GB |
+| Validation Images | 228 MB |
 | Validation Masks | 742 KB |
 
 ### Directory Structure
@@ -187,8 +187,21 @@ If you use this work or the dataset, please cite:
 
 ---
 
+## 👥 Contributors
+
 <div align="center">
 
-Made with ❤️ by [karthik26-Thalari](https://github.com/karthik26-Thalari)
+| | Name | GitHub | Role |
+|---|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/70313033?v=4" width="48" style="border-radius:50%"/> | **Tanmayee** | [@Tanmayee1802](https://github.com/Tanmayee1802) | Collaborator |
+| <img src="https://github.com/karthik26-Thalari.png" width="48" style="border-radius:50%"/> | **Karthik** | [@karthik26-Thalari](https://github.com/karthik26-Thalari) | Author |
+
+</div>
+
+---
+
+<div align="center">
+
+Made with ❤️ by [karthik26-Thalari](https://github.com/karthik26-Thalari) & [Tanmayee1802](https://github.com/Tanmayee1802)
 
 </div>
