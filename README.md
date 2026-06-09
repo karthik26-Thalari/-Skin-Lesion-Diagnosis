@@ -71,7 +71,7 @@ Go to [https://challenge.isic-archive.com/data/#2018](https://challenge.isic-arc
 |---|---|
 | Training Images | 10.4 GB |
 | Training Masks | 26 MB |
-| Validation Images | 228 MB |
+| Validation Images | 2.2 GB |
 | Validation Masks | 742 KB |
 
 ### Directory Structure
